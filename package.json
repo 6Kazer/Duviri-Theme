@@ -2,7 +2,7 @@
   "name": "duviri-theme",
   "displayName": "Duviri Theme",
   "description": "Enjoy the colors that represent calm, wisdom and loneliness with Duviri Theme for The Videogame Called Warframe :V æ. Fill your code with harmony and make your Visual a welcoming place.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.93.0"
   },
@@ -18,10 +18,10 @@
       }
     ]
   },
-  "icon": ""
+  "icon": "1_VitruvianGlyphV1.png", 
   "repository": {
     "url": "https://github.com/6Kazer/Duviri-Theme.git",
     "type": "git"
   },
-  "publisher": "Kazer"
+  "publisher": "DuviriTheme"
 }
